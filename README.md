@@ -5,3 +5,5 @@
 
 <h3>Crud :</h3> 
 <p>Especificações: Todos os passos da execução do projeto se encontram na pasta crud-backend.</p>
+<p>PS: Lembrando que os arquivos tem que ser executados em projetos diferentes</p>
+
